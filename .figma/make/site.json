@@ -1,0 +1,10 @@
+{
+  "description": "Effortlessly book parking spots at popular destinations with real-time availability, secure payments, and instant booking confirmations for a hassle-free experience.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
