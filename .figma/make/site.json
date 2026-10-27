@@ -1,5 +1,9 @@
 {
+  "title": "SpotEase",
   "description": "Effortlessly book parking spots at popular destinations with real-time availability, secure payments, and instant booking confirmations for a hassle-free experience.",
+  "icons": {
+    "icon": "/spotease-icon.png"
+  },
   "robots": {
     "index": false
   },
